@@ -1,6 +1,6 @@
 # IA-Meteorologica
 
-Esta Inteligencia artificial busca tu ubicacion geografica y intenta pronosticar el clima dependiendo de tu ubicacion recolectando datos y comparandolos para intentar pronosticar el clima, los datos pueden varias, asi que el clima que se muestra no es correcto en su totalidad!
+Esta Inteligencia artificial busca tu ubicacion geografica y intenta pronosticar el clima dependiendo de tu ubicacion recolectando datos y comparandolos para intentar pronosticar el clima, los datos pueden variar durante el dia, asi que el clima que se muestra no es correcto en su totalidad, en cualquier momento puedes volver a ejecutarlo y te mostrara los datos actualizados en ese momento!
 
 # Instalacion 
 
