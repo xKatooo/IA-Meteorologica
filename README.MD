@@ -1,4 +1,8 @@
-## Instalacion 
+# IA-Meteorologica
+
+Esta Inteligencia artificial busca tu ubicacion geografica y intenta pronosticar el clima dependiendo de tu ubicacion recolectando datos y comparandolos para intentar pronosticar el clima, los datos pueden varias, asi que el clima que se muestra no es correcto en su totalidad!
+
+# Instalacion 
 
 ## Termux
 Para Termux o Linux ocupas tener instalado git y python, 
